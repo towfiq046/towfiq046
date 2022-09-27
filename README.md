@@ -1,5 +1,5 @@
 <h1 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50" width=50></h1>
-<h3 align="center">A junior web developer, goal is to be a full stack developer.</h3>
+<h3 align="center">I'm a junior web developer, goal is to be a full stack developer.</h3>
 
 - 🌱 I’m currently learning **JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="1.5%"/> and React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="1.5%">**
 
